@@ -6,6 +6,6 @@ import org.testng.annotations.Test;
 public class welcome {
 	@Test
 	public void demo() {
-		Reporter.log("welcome");
+		Reporter.log("welcome git");
 	}
 }
