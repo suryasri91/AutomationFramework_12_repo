@@ -3,9 +3,9 @@ package pollscm;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class PollSCMTest {
+public class pollScm {
 	@Test
 	public void scm() {
-		Reporter.log("pollscm class executed", true);
+		Reporter.log("pollscm executed", true);
 	}
 }
